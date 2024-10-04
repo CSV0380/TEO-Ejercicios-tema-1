@@ -51,3 +51,4 @@ print(f"Hay {pares} números pares")
 
 mayores = mayores_a_10(numeros)
 print(f"Nueva lista con números mayores a 10: {mayores}")
+
